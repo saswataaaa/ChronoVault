@@ -57,5 +57,3 @@ ChronoVault is a full-stack MERN application that lets users create encrypted di
 - Voice Message Capsules
 
 ---
-
-Made with ❤️ by Saswata Tripathy
