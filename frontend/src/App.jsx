@@ -5,6 +5,7 @@ import HowItWorks from "./components/HowItWorks";
 import CapsulePreview from "./components/CapsulePreview";
 import Security from "./components/Security";
 import Testimonials from "./components/Testimonials";
+import FAQ from "./components/FAQ";
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
       <CapsulePreview />
       <Security />
       <Testimonials />
+      <FAQ />
     </>
   );
 }
