@@ -6,6 +6,8 @@ import CapsulePreview from "./components/CapsulePreview";
 import Security from "./components/Security";
 import Testimonials from "./components/Testimonials";
 import FAQ from "./components/FAQ";
+import CTA from "./components/CTA";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -18,6 +20,8 @@ function App() {
       <Security />
       <Testimonials />
       <FAQ />
+      <CTA />
+      <Footer />
     </>
   );
 }
