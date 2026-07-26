@@ -1,4 +1,8 @@
 import chronoCore from "../assets/chronocore.png";
+<section
+id="home"
+className="..."
+></section>
 
 function Hero() {
   return (

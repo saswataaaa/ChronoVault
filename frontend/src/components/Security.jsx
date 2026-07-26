@@ -1,4 +1,8 @@
 import { Shield, Lock, Clock3 } from "lucide-react";
+<section
+id="security"
+className="..."
+></section>
 
 function Security() {
   const securityFeatures = [

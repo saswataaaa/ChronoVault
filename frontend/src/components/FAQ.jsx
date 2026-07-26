@@ -1,6 +1,9 @@
 import { useState } from "react";
 import { ChevronDown } from "lucide-react";
-
+<section
+id="faq"
+className="..."
+></section>
 function FAQ() {
   const faqs = [
     {

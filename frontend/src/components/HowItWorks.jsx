@@ -1,5 +1,8 @@
 import { Archive, Upload, CalendarClock, Lock } from "lucide-react";
-
+<section
+id="how"
+className="..."
+></section>
 function HowItWorks() {
   const steps = [
     {

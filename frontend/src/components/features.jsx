@@ -6,6 +6,10 @@ import {
   Sparkles,
   Lock,
 } from "lucide-react";
+<section
+id="features"
+className="..."
+></section>
 
 function Features() {
   const features = [
